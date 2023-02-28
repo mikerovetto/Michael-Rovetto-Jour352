@@ -1,0 +1,29 @@
+body 
+{
+    background-color:#F7D1CD;
+    text-align: center;
+}
+
+button {
+    background-color:#086375;
+    color:#84DCC6;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-transform: uppercase;
+    width: 200px;
+    padding: 10px;
+    margin: 0px 0px 0px 0px;
+    border:none;
+    border-radius:10px
+}
+
+button:hover {
+    background-color:#8D6B94;
+}
+
+h1 {
+   font-family: 'Oswald', sans-serif; 
+   font-weight: normal;
+}
+h2 {
+    font-family: 'Source Sans Pro', sans-serif;
+}
