@@ -1,0 +1,32 @@
+/*
+MY COLOR PALETTE
+Color 1 - #b3001b
+Color 2 - #262626
+Color 3 - #3943b7
+Color 4 - #aaaaaa
+Color 5 - #faf0ca
+*/
+
+body {
+    background-color: ;
+    text-align:center;
+}
+
+div {
+    font-family:'Oswald', sans-serif; 
+    background-color:#262626;
+    color:#faf0ca;
+    border:5px solid red;
+    padding:10px;
+    margin:auto;
+    width:300px;
+    height:550px;
+    text-align:center;
+    font-size:44px;
+}
+
+#highlight {
+    color:#3943b7;
+    font-weight:bold
+}
+
