@@ -8,12 +8,12 @@ Color 5 - #faf0ca
 */
 
 body {
-    background-color: ;
+    background-color:#aaaaaa;
     text-align:center;
 }
 
 div {
-    font-family:'Oswald', sans-serif; 
+    font-family:'Shantell Sans', cursive; 
     background-color:#262626;
     color:#faf0ca;
     border:5px solid red;
