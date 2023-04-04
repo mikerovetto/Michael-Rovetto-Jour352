@@ -5,12 +5,15 @@ h1 {
     color:#DB3A34;
     font-family:"koho";
     font-weight:bold;
+    text-align:center;
+    margin-top: -300px;
 }
 
 h2 {
     font-size:60px;
     color:#2D3356;
     font-family:"koho";
+    text-align:center;
 }
 
 h3 {
@@ -42,10 +45,13 @@ p {
 #button {
     background-color:#DB3A34;
     border-radius: 50%;
-    padding:10px 20px 10px 20px;
+    padding:0px 20px 0px 20px;
     text-transform:uppercase;
     margin:10px;
     border: 5px solid #2B3359;
+    border-radius: 15px;
+    position: relative;
+    left: 600px;
 }
 
 #button a {
@@ -53,11 +59,12 @@ p {
     color:#C8C6B1;
     text-decoration: none;
     font-family:"koho";
-    
+    font-size:25px
 }
        
 #navigation {
     background-color:#426A5A;
+    padding:0px 350px 0px 50px; 
 }
     
 .nav a {
@@ -79,6 +86,7 @@ p {
 #footer {
     color:#C8C6B1;
     background-color:#426A5A;
+    padding:0px 350px 0px 50px; 
     }
 
     
