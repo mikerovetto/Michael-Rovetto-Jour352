@@ -1,0 +1,29 @@
+#headshot {
+    margin: 0px 15px 0px 0px
+    width: 300px;
+    float: left 
+}
+
+body {
+    font-family: arial, sans-serif;
+}
+
+#contact a {
+    font-weight: bold;
+    color: black;
+    font-size: 20px;
+}
+
+#contact a:hover {
+    color: red;
+}
+
+#info {
+    width: 700px;
+    margin: auto;
+}
+
+#footer {
+    position:fixed
+    bottom: 0px
+}
