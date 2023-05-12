@@ -5,10 +5,7 @@
     }
     
     .topper {
-        background-image:url(justinjefferson2.jpeg);
-        background-size: cover;
-        background-position:center;
-        border: 5px solid #F6C852;
+        width: 100%;
     }
     
     .content {
@@ -18,19 +15,26 @@
     }
     
     h1 {
-        color:#FFC62F; 
+        color: black; 
         font-family: 'Chakra Petch';
-        text-shadow: 3px 3px #4A287E;
-        padding: 0px 0px 300px 0px;
-        font-size: 75px;
+        font-size: 65px;
+        font-weight: bold;
+        text-align: center;
+        
     }
     
     h2 {
-        color:#FFC62F;
+        color:#4A287E;
         font-family: 'Chakra Petch';
-        text-shadow: 3px 3px #4A287E;
-        padding: 0px 0px 100px 0px;
-        font-size: 50px;
+        font-size: 40px;
+        text-align: center;
+    }
+    
+    h3 {
+        color:#787276;
+        text-align: center;
+        font-size: 20px;
+        padding: 0px 0px 20px 0px
     }
     
     .quote {
@@ -63,9 +67,13 @@
         width: 100%;
     }
     
+    .vikings {
+        width: 100%;
+    }
+    
     .caption {
         font-size: 13px;
-        color: #36454F;
+        color: #787276;
         padding: 5px 0px 20px 0px
     }
     
@@ -73,11 +81,11 @@
         margin:auto;
     }
     
-    }
-    
     #footer {
-          font-size: 13px;
-          padding: 0px 0px 0px 0px;
+        font-size: 13px;
+        padding: 0px 0px 0px 0px;
+        color:#787276;
+          
     }
 }
 
