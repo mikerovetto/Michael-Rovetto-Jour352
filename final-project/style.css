@@ -9,7 +9,7 @@
     }
     
     .content {
-        padding: 0px 225px 0px 225px;
+        padding: 0px 250px 0px 250px;
         font-size: 20px;
         font-family: 'Arimo', sans-serif;
     }
@@ -72,7 +72,7 @@
     .caption {
         font-size: 13px;
         color: #787276;
-        padding: 5px 0px 20px 0px
+        padding: 5px 0px 20px 5px
     }
     
     .twitter-tweet {
@@ -81,19 +81,22 @@
     
     #footer {
         font-size: 13px;
-        padding: 0px 0px 0px 0px;
+        padding: 0px 0px 15px 0px;
         color:#787276;
           
     }
 }
 
-@media (min-width:576px){
-    
+@media (max-width:576px){
+      .content {
+        padding: 0px 15px 0px 15px;
+          
+    }
     
 }
 
-@media (min-width:992px){
-    
+@media (max-width:768px){
+
 }
 
 @media (min-width:1200px){
