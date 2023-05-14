@@ -11,12 +11,12 @@
     .content {
         padding: 0px 225px 0px 225px;
         font-size: 20px;
-        font-family: 'verdana';
+        font-family: 'Arimo', sans-serif;
     }
     
     h1 {
         color: black; 
-        font-family: 'Chakra Petch';
+        font-family: 'Chakra Petch', sans-serif;
         font-size: 65px;
         font-weight: bold;
         text-align: center;
@@ -25,7 +25,7 @@
     
     h2 {
         color:#4A287E;
-        font-family: 'Chakra Petch';
+        font-family: 'Arimo', sans-serif;
         font-size: 40px;
         text-align: center;
     }
@@ -38,28 +38,26 @@
     }
     
     .quote {
-        color:#FFC62F; 
-        font-family: 'Chakra Petch';
-        text-shadow: 5px 5px #4A287E;
+        color: black;  
+        font-family: 'Chakra Petch', sans-serif;
         font-weight: bold;
-        font-size: 70px;
+        font-size: 60px;
         margin: 10px 0px 10px 0px;
     }
     
     .quotemark {
-        font-size: 300px;
+        font-size: 200px;
         float: left;
         line-height: 100px;
-        padding: 75px 0px 0px 0px;
-        font-family: 'Charm';
+        padding: 30px 0px 0px 0px;
+        font-family: 'Charm', cursive;
         color: #4A287E;
     }
     
     .attribution {
-        font-family: 'Chakra Petch';
-        font-size: 50px;
-        color: #4A287E;
-        font-weight: bold
+        font-family: 'Arimo', sans-serif;
+        font-size: 40px;
+        color: #4A287E;  
         
     }
     
@@ -90,6 +88,7 @@
 }
 
 @media (min-width:576px){
+    
     
 }
 
